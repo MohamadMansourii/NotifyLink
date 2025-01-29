@@ -1,0 +1,1 @@
+.\snoretoast.exe -t "IT Central Notification" -m "This message is TestMessage :)" -p "C:\Users\Administrator\Desktop\1.jpg" -b "button1;Button2"
