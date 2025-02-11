@@ -54,6 +54,8 @@ While NotificationReceiver is running, execute the sender with PowerShell:
 ```
 .\NotificationSender.exe "Your Message1" "Your Message2" "Your Message3" 192.168.1.1 192.168.1.2 192.168.1.3 ...
 ```
+# Toast.bat
+The PRTG software sends network error parameters to the `Toast.bat` script. The script runs and triggers the notification software, which sends notifications to the systems.
 # Tasks
  - [ ] Dynamic `SnoreToast.exe` folder path and `logo` (Read from config.ini)
  - [ ] Use CMAKE for this project
