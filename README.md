@@ -54,3 +54,6 @@ While NotificationReceiver is running, execute the sender with PowerShell:
 ```
 .\NotificationSender.exe "Your Message1" "Your Message2" "Your Message3" 192.168.1.1 192.168.1.2 192.168.1.3 ...
 ```
+# Tasks
+ - [ ] Dynamic `SnoreToast.exe` folder path and `logo` (Read from config.ini)
+ - [ ] Use CMAKE for this project
