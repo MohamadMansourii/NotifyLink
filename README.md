@@ -59,3 +59,5 @@ The PRTG software sends network error parameters to the `Toast.bat` script. The 
 # Tasks
  - [ ] Dynamic `SnoreToast.exe` folder path and `logo` (Read from config.ini)
  - [ ] Use CMAKE for this project
+
+Do you still have any questions? Send me message in [Telegram](https://www.telegram.me/mohamadmnsouri/)
